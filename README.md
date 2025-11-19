@@ -1,1 +1,1 @@
-# Giải bài toán lập lịch sản xuất bằng thuật toán nhánh cận
+# Ứng dụng thuật toán nhánh cận cho bài toán lập lịch sản xuất
