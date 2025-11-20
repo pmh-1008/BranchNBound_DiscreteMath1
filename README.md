@@ -1,5 +1,6 @@
 # Ứng dụng thuật toán nhánh cận cho bài toán lập lịch sản xuất
 
+
 ## Mô tả
 
 Đây là project môn Toán Rời Rạc 1, trong đó nhóm trình bày cơ sở lý thuyết về **thuật toán nhánh cận (Branch and Bound)** và ứng dụng trong việc giải bài toán **lập lịch sản xuất (production scheduling)**. Bên cạnh đó, nhóm bổ sung phiên bản **Brute-force** để so sánh hiệu quả giữa 2 phương pháp thông qua việc đánh giá thời gian chạy thực tế.
@@ -7,9 +8,13 @@
 ## Cấu trúc thư mục
 
 ├── branch-n-bound.cpp # Giải thuật áp dụng nhánh cận
+
 ├── brute-force.cpp # Giải thuật brute-force
+
 ├── test/ # Gồm 50 testcase, với input và output tương ứng
+
 ├── result/ # Kết quả khi cho chạy 2 chương trình trên bộ test + bản so sánh thời gian chạy
+
 └── Thuật toán nhánh cận - Báo cáo nhóm 4.pdf # Báo cáo lý thuyết & xây dựng thuật toán
 
 ## Giải thuật sử dụng
