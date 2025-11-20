@@ -1,0 +1,250 @@
+Test 0:
+Thoi gian toi uu: 7236
+Thu tu gia cong chi tiet: 1 2 3 
+Runtime: 0 ms
+
+Test 1:
+Thoi gian toi uu: 8659
+Thu tu gia cong chi tiet: 5 3 4 2 1 
+Runtime: 0 ms
+
+Test 2:
+Thoi gian toi uu: 9997
+Thu tu gia cong chi tiet: 6 3 2 1 4 5 
+Runtime: 0 ms
+
+Test 3:
+Thoi gian toi uu: 6867
+Thu tu gia cong chi tiet: 1 4 3 2 5 
+Runtime: 0 ms
+
+Test 4:
+Thoi gian toi uu: 7142
+Thu tu gia cong chi tiet: 1 4 2 3 
+Runtime: 0 ms
+
+Test 5:
+Thoi gian toi uu: 8484
+Thu tu gia cong chi tiet: 2 4 1 5 3 
+Runtime: 0 ms
+
+Test 6:
+Thoi gian toi uu: 8954
+Thu tu gia cong chi tiet: 3 4 2 1 
+Runtime: 0 ms
+
+Test 7:
+Thoi gian toi uu: 9617
+Thu tu gia cong chi tiet: 2 3 4 1 5 6 
+Runtime: 0 ms
+
+Test 8:
+Thoi gian toi uu: 7905
+Thu tu gia cong chi tiet: 1 2 3 
+Runtime: 0 ms
+
+Test 9:
+Thoi gian toi uu: 9308
+Thu tu gia cong chi tiet: 6 5 2 3 1 4 
+Runtime: 0 ms
+
+Test 10:
+Thoi gian toi uu: 10523
+Thu tu gia cong chi tiet: 7 8 2 4 5 1 3 6 
+Runtime: 4 ms
+
+Test 11:
+Thoi gian toi uu: 10631
+Thu tu gia cong chi tiet: 1 5 4 8 2 6 3 7 
+Runtime: 4 ms
+
+Test 12:
+Thoi gian toi uu: 10040
+Thu tu gia cong chi tiet: 8 3 6 2 5 7 1 4 
+Runtime: 4 ms
+
+Test 13:
+Thoi gian toi uu: 9374
+Thu tu gia cong chi tiet: 3 5 2 6 7 8 4 1 
+Runtime: 5 ms
+
+Test 14:
+Thoi gian toi uu: 10624
+Thu tu gia cong chi tiet: 7 3 4 1 8 5 2 6 
+Runtime: 3 ms
+
+Test 15:
+Thoi gian toi uu: 10301
+Thu tu gia cong chi tiet: 2 6 4 7 8 1 5 3 
+Runtime: 3 ms
+
+Test 16:
+Thoi gian toi uu: 10751
+Thu tu gia cong chi tiet: 2 4 7 6 1 8 5 3 
+Runtime: 3 ms
+
+Test 17:
+Thoi gian toi uu: 11293
+Thu tu gia cong chi tiet: 2 3 7 6 8 1 4 5 
+Runtime: 2 ms
+
+Test 18:
+Thoi gian toi uu: 10183
+Thu tu gia cong chi tiet: 8 3 7 6 2 1 5 4 
+Runtime: 2 ms
+
+Test 19:
+Thoi gian toi uu: 9836
+Thu tu gia cong chi tiet: 8 7 6 1 3 5 2 4 
+Runtime: 3 ms
+
+Test 20:
+Thoi gian toi uu: 12953
+Thu tu gia cong chi tiet: 6 8 1 4 3 7 9 5 2 
+Runtime: 29 ms
+
+Test 21:
+Thoi gian toi uu: 11145
+Thu tu gia cong chi tiet: 2 5 9 7 3 6 4 8 1 
+Runtime: 26 ms
+
+Test 22:
+Thoi gian toi uu: 10233
+Thu tu gia cong chi tiet: 1 3 5 7 8 2 6 9 4 
+Runtime: 26 ms
+
+Test 23:
+Thoi gian toi uu: 12464
+Thu tu gia cong chi tiet: 6 5 1 2 4 3 8 9 7 
+Runtime: 42 ms
+
+Test 24:
+Thoi gian toi uu: 11895
+Thu tu gia cong chi tiet: 1 8 7 3 2 5 6 4 9 
+Runtime: 27 ms
+
+Test 25:
+Thoi gian toi uu: 9962
+Thu tu gia cong chi tiet: 4 1 5 2 6 3 8 9 7 
+Runtime: 24 ms
+
+Test 26:
+Thoi gian toi uu: 13211
+Thu tu gia cong chi tiet: 1 4 7 6 9 3 8 2 5 
+Runtime: 38 ms
+
+Test 27:
+Thoi gian toi uu: 12110
+Thu tu gia cong chi tiet: 9 4 3 1 6 5 8 7 2 
+Runtime: 41 ms
+
+Test 28:
+Thoi gian toi uu: 11390
+Thu tu gia cong chi tiet: 7 9 1 4 6 3 8 2 5 
+Runtime: 48 ms
+
+Test 29:
+Thoi gian toi uu: 10910
+Thu tu gia cong chi tiet: 3 6 7 9 4 5 1 8 2 
+Runtime: 30 ms
+
+Test 30:
+Thoi gian toi uu: 12174
+Thu tu gia cong chi tiet: 7 1 10 5 8 9 2 6 4 3 
+Runtime: 333 ms
+
+Test 31:
+Thoi gian toi uu: 12415
+Thu tu gia cong chi tiet: 8 9 2 10 7 6 4 3 5 1 
+Runtime: 400 ms
+
+Test 32:
+Thoi gian toi uu: 12430
+Thu tu gia cong chi tiet: 4 7 5 10 2 6 1 3 8 9 
+Runtime: 329 ms
+
+Test 33:
+Thoi gian toi uu: 11210
+Thu tu gia cong chi tiet: 3 1 8 4 2 10 7 9 5 6 
+Runtime: 366 ms
+
+Test 34:
+Thoi gian toi uu: 13303
+Thu tu gia cong chi tiet: 3 9 5 1 7 2 6 10 8 4 
+Runtime: 342 ms
+
+Test 35:
+Thoi gian toi uu: 13990
+Thu tu gia cong chi tiet: 5 4 9 6 1 2 8 7 3 10 
+Runtime: 340 ms
+
+Test 36:
+Thoi gian toi uu: 12187
+Thu tu gia cong chi tiet: 9 5 2 7 3 4 8 6 1 10 
+Runtime: 412 ms
+
+Test 37:
+Thoi gian toi uu: 13147
+Thu tu gia cong chi tiet: 9 4 7 8 6 2 10 1 3 5 
+Runtime: 402 ms
+
+Test 38:
+Thoi gian toi uu: 13203
+Thu tu gia cong chi tiet: 3 2 7 5 6 4 8 9 1 10 
+Runtime: 398 ms
+
+Test 39:
+Thoi gian toi uu: 12229
+Thu tu gia cong chi tiet: 2 4 1 7 8 9 5 3 10 6 
+Runtime: 345 ms
+
+Test 40:
+Thoi gian toi uu: 13659
+Thu tu gia cong chi tiet: 10 6 9 11 3 4 1 8 7 5 2 
+Runtime: 6291 ms
+
+Test 41:
+Thoi gian toi uu: 12882
+Thu tu gia cong chi tiet: 7 11 2 5 3 1 4 8 9 10 6 
+Runtime: 7241 ms
+
+Test 42:
+Thoi gian toi uu: 12706
+Thu tu gia cong chi tiet: 11 3 7 6 2 9 1 8 4 10 5 
+Runtime: 7498 ms
+
+Test 43:
+Thoi gian toi uu: 12933
+Thu tu gia cong chi tiet: 1 9 4 3 8 2 11 10 6 5 7 
+Runtime: 7344 ms
+
+Test 44:
+Thoi gian toi uu: 12809
+Thu tu gia cong chi tiet: 5 1 10 7 4 2 8 6 3 9 11 
+Runtime: 7460 ms
+
+Test 45:
+Thoi gian toi uu: 13484
+Thu tu gia cong chi tiet: 10 3 2 1 8 11 7 6 9 5 4 
+Runtime: 7316 ms
+
+Test 46:
+Thoi gian toi uu: 13453
+Thu tu gia cong chi tiet: 4 10 5 7 1 9 2 8 3 11 6 
+Runtime: 7261 ms
+
+Test 47:
+Thoi gian toi uu: 12502
+Thu tu gia cong chi tiet: 4 10 8 6 2 1 3 7 11 5 9 
+Runtime: 7358 ms
+
+Test 48:
+Thoi gian toi uu: 13169
+Thu tu gia cong chi tiet: 5 7 9 4 3 1 2 8 6 11 10 
+Runtime: 7306 ms
+
+Test 49:
+Thoi gian toi uu: 12248
+Thu tu gia cong chi tiet: 1 7 3 4 10 2 9 6 5 8 11 
+Runtime: 7226 ms
+
