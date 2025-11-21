@@ -11,7 +11,7 @@
 
 ├── brute-force.cpp # Giải thuật brute-force
 
-├── test/ # Gồm 50 testcase, với input và output tương ứng
+├── test/ # Gồm 50 test, với input và output tương ứng
 
 ├── result/ # Kết quả khi cho chạy 2 chương trình trên bộ test + bản so sánh thời gian chạy
 
@@ -29,7 +29,7 @@
   
 ## Mô tả bộ test
 
-Tất cả các test đều có số máy cố định (m = 10) do thời gian tính toán của bài toán này chủ yếu phụ thuộc vào số lượng chi tiết cần gia công (n).
+Gồm 50 test, tất cả các đều có số máy cố định (m = 10) do thời gian tính toán của bài toán này chủ yếu phụ thuộc vào số lượng chi tiết cần gia công (n).
 
 - **Test 0 -> 9:**  3 <= n < 8.
 - **Test 10 -> 19:** n = 8.
