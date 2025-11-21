@@ -40,7 +40,7 @@ Tất cả các test đều có số máy cố định (m = 10) do thời gian t
 ## Kết quả so sánh
 
 - Đối với các test n nhỏ (Test 0 -> 9, n < 8), sự khác biệt về thời gian chạy không đáng kể (đều là 0 ms).
-- Khi n tăng lên, chương trình sử dụng thuật toán nhánh cận thể hiện ưu thế vượt trội về thời gian chạy.
+- Khi n tăng lên, chương trình sử dụng thuật toán nhánh cận dần thể hiện ưu thế về thời gian chạy.
 - Ở những test cuối với n = 11, thời gian chạy trung bình của thuật toán nhánh cận gấp gần 15 lần so với brute-force.
 <img width="680" height="510" alt="image" src="https://github.com/user-attachments/assets/5b7a4ae3-0dff-4060-95c8-d4a8fa08535f" />
 
