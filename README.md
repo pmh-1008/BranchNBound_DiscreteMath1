@@ -7,15 +7,15 @@
 
 ## Cấu trúc thư mục
 
-├── branch-n-bound.cpp # Giải thuật áp dụng nhánh cận
+├── **branch-n-bound.cpp** # Giải thuật áp dụng nhánh cận
 
-├── brute-force.cpp # Giải thuật brute-force
+├── **brute-force.cpp** # Giải thuật brute-force
 
-├── test/ # Gồm 50 test, với input và output tương ứng
+├── **test/** # Gồm 50 test, với input và output tương ứng
 
-├── result/ # Kết quả khi cho chạy 2 chương trình trên bộ test + bản so sánh thời gian chạy
+├── **result/** # Kết quả khi cho chạy 2 chương trình trên bộ test + bản so sánh thời gian chạy
 
-└── Thuật toán nhánh cận - Báo cáo nhóm 4.pdf # Báo cáo lý thuyết & xây dựng thuật toán
+└── **Thuật toán nhánh cận - Báo cáo nhóm 4.pdf** # Báo cáo lý thuyết & xây dựng thuật toán
 
 ## Giải thuật sử dụng
 
