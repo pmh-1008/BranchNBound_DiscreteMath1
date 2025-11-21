@@ -19,7 +19,7 @@
 
 ## Giải thuật sử dụng
 
-- **Nhánh-cận (Branch and Bound):**  
+- **Nhánh cận (Branch and Bound):**  
   - Tại mỗi node, sử dụng **cận dưới (lower bound)** để quyết định có nên mở rộng nhánh đó.  
   - Cắt các nhánh không tiềm năng để giảm không gian tìm kiếm.  
 
